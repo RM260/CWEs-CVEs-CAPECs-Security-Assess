@@ -1,7 +1,9 @@
 # Risk Assessment and Vulnerability Analysis
 Identify potential vulnerabilities within the aviation site. Consider and outline a plan for how an attacker could exploit these vulnerabilities. Analyze security measures, assess various attack vectors, and use resources like Common Weakness Enumerations (CWEs) and Common Attack Pattern Enumeration and Classification (CAPECs) to inform your assessment.
 
-![attack_graph](https://github.com/user-attachments/assets/ec78efdb-4c8e-4709-9192-76efb98e81db)
+<p align="center">
+  <img src="/plan_graph.png" width=50% height=50%/>
+</p>
 
 ## 1. Attack Entry
 
